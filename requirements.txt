@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-multipart
+requests
+beautifulsoup4
+playwright
+langchain-community
+faiss-cpu
+langchain_nomic
